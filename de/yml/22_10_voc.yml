@@ -1,0 +1,10 @@
+---
+students:
+- group 1:
+    name: Alexandra
+    faculty: Gesetz
+    specialty: internationales Recht
+- group 2:
+    name: Lizavetta
+    faculty: Wirtschaft
+    specialty: Werbung
