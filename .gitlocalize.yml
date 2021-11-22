@@ -1,5 +1,7 @@
 pretranslate:
   paths:
   - source: .
-    include:
+    exclude:
+      - "tr/*"
       - "04_11.md"
+   
