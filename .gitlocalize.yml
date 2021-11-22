@@ -4,4 +4,7 @@ pretranslate:
     exclude:
       - "tr/*"
       - "04_11.md"
+    include:
+      - "yml/*"
+      - "code.md"
    
