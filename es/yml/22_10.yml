@@ -1,0 +1,15 @@
+---
+university:
+  faculty:
+    law:
+    - nacional
+    - internacional
+    economics:
+    - márketing
+    - administración
+  law:
+  - nacional
+  - internacional
+  economics:
+  - márketing
+  - administración
