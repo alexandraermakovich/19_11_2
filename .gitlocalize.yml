@@ -2,9 +2,9 @@ pretranslate:
   paths:
   - source: .
     exclude:
-      - "tr/*"
+      - "tr/*.*"
       - "04_11.md"
     include:
-      - "yml/*"
+      - "yml/*.*"
       - "code.md"
    
